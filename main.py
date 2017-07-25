@@ -8,7 +8,7 @@ class News:
     '''Wrapped class to fetch news feeds.
     '''
     def __init__(self, source=''):
-        self.api_key = 'b6c21af6312944b1ae656600df84d90a'
+        self.api_key = ''
         self.news_source = source
         # self.sort_by = sort
         self.articles_host = 'https://newsapi.org/v1/articles?'
