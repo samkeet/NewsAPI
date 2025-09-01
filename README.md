@@ -1,2 +1,1 @@
-# news
-Implementing the news api
+# NewsAPI Demo
